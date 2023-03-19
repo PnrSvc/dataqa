@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "title": "3 Boyutlu Güvenlik",
+            "paragraphs": [
+                {
+                    "context": "3 Boyutlu Güvenlik adımında bankanız, alışverişin size ait olduğunu teyit edebilmeniz için güvenlik adımını tamamlamanızı ister. Güvenlik doğrulaması şifre alınarak ya da bankanızın mobil uygulaması üzerinden yapılabilir.",
+                    "qas": [
+                        {
+                            "question": "ödemeden önce gelen 3d şifre sayfasında ne yapacağım?",
+                            "id": "56be4db0acb8001400a502ec",
+                            "answers": [
+                                {
+                                    "text": "3 Boyutlu Güvenlik adımında bankanız, alışverişin size ait olduğunu teyit edebilmeniz için güvenlik adımını tamamlamanızı ister. Güvenlik doğrulaması şifre alınarak ya da bankanızın mobil uygulaması üzerinden yapılabilir.",
+                                    "answer_start": 0
+                                }
+                            ]
+                        },
+                        {
+                            "question": "ödemeden önceki 3d şifre sayfasında ne yapacağım",
+                            "id": "56be4db0acb8001400a502ed",
+                            "answers": [
+                                {
+                                    "text": "3 Boyutlu Güvenlik adımında bankanız, alışverişin size ait olduğunu teyit edebilmeniz için güvenlik adımını tamamlamanızı ister. Güvenlik doğrulaması şifre alınarak ya da bankanızın mobil uygulaması üzerinden yapılabilir.",
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "koronavürüs",
+            "paragraphs": [
+                {
+                    "context": "Anlaşılan, bir süre daha hayatımızda olacak. Lütfen aşılarınızı olmayı ihmal etmeyin.",
+                    "qas": [
+                        {
+                            "question": "corona biter mi",
+                            "id": "56be4db0acb8001400a702fd",
+                            "answers": [
+                                {
+                                    "text": "Anlaşılan, bir süre daha hayatımızda olacak. Lütfen aşılarınızı olmayı ihmal etmeyin.",
+                                    "answer_start": 0
+                                }
+                            ]
+                        },
+                        {
+                            "question": "coronadan ne zaman kurtulacağız",
+                            "id": "56be4db0acb8001400a502fd",
+                            "answers": [
+                                {
+                                    "text": "Anlaşılan, bir süre daha hayatımızda olacak. Lütfen aşılarınızı olmayı ihmal etmeyin.",
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "chit-chat",
+            "paragraphs": [
+                {
+                    "context": "Ben bir dijital asistanım ve insani duygularım yok. Size yardımcı olmak için buradayım.",
+                    "qas": [
+                        {
+                            "question": "annen kim",
+                            "id": "56be4db0ecb8001400a502ec",
+                            "answers": [
+                                {
+                                    "text": "Ben bir dijital asistanım ve insani duygularım yok. Size yardımcı olmak için buradayım.",
+                                    "answer_start": 0
+                                }
+                            ]
+                        },
+                        {
+                            "question": "baban kim",
+                            "id": "56be4de0acb8001400a502ed",
+                            "answers": [
+                                {
+                                    "text": "Ben bir dijital asistanım ve insani duygularım yok. Size yardımcı olmak için buradayım.",
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+
+    ]
+}
