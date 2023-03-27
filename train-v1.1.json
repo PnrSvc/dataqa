@@ -748,7 +748,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0072,
+              "id": "56be85543aeaaa14008c0072",
               "question": "salgın bitecek mi",
               "answers": [
                 {
@@ -932,8 +932,8 @@
       ]
     },
     {
-		"title": "3 Boyutlu Güvenlik Nedir?",
-		"paragraphs": [
+	"title": "3 Boyutlu Güvenlik Nedir?",
+	"paragraphs": [
         {
           "context": "3 Boyutlu Güvenlik, Visa ve Mastercard tarafından internet alışverişlerinde güvenliği artırmak amacıyla geliştirilmiş, uluslararası geçerliliği olan bir sistemdir.",
           "qas": [
