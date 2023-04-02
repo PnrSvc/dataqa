@@ -8,7 +8,7 @@
           "context": "Üyelik sayfasındaki Şifremi Unuttum seçeneğine tıklayın. Açılan ekranda üye olurken kullandığınız e-posta adresini girin ve Şifre Sıfırlama Linki Gönder butonuna basın. E-postanıza gönderilecek link üzerinden şifrenizi sıfırlayabilirsiniz.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0001",
+              "id": "001",
               "question": "Kullanıcı şifremi unuttum, ne yapmalıyım",
               "answers": [
                 {
@@ -19,7 +19,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0002",
+              "id": "002",
               "question": "Kullanıcı şifremi unuttum, ne yapabilirim",
               "answers": [
                 {
@@ -30,7 +30,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0003",
+              "id": "003",
               "question": "Kullanıcı şifremi kaybettim ne yapacağım?",
               "answers": [
                 {
@@ -41,7 +41,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0004",
+              "id": "004",
               "question": "Şifremi kaybettim ne yapıcam",
               "answers": [
                 {
@@ -62,7 +62,7 @@
           "context": "0850 210 0 888 numaralı Çağrı Destek Merkezimiz 7/24 hizmetinizdedir.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0005",
+              "id": "005",
               "question": "Çağrı Merkezi kaçtan kaça çalışıyor",
               "answers": [
                 {
@@ -73,7 +73,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0006",
+              "id": "006",
               "question": "Müşteri hizmetleriniz hangi saatler arasında çalışıyor",
               "answers": [
                 {
@@ -84,7 +84,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0007",
+              "id": "007",
               "question": "Müşteri iletişim merkezinizin çalışma saatleri neler.",
               "answers": [
                 {
@@ -95,7 +95,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0008",
+              "id": "008",
               "question": "Çağrı Destek Merkezi kaç kaç çalışır.",
               "answers": [
                 {
@@ -116,7 +116,7 @@
           "context": "2022 yılında dünyaya geldim.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0009",
+              "id": "009",
               "question": "kaçlısın",
               "answers": [
                 {
@@ -127,7 +127,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0010",
+              "id": "010",
               "question": "kac yasindasin",
               "answers": [
                 {
@@ -138,7 +138,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0011",
+              "id": "011",
               "question": "yasin kac",
               "answers": [
                 {
@@ -149,7 +149,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0012",
+              "id": "012",
               "question": "yaşın kaç",
               "answers": [
                 {
@@ -160,7 +160,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0013",
+              "id": "013",
               "question": "ne zaman ortaya çıktın",
               "answers": [
                 {
@@ -171,7 +171,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0014",
+              "id": "014",
               "question": "ne zamandir varsin",
               "answers": [
                 {
@@ -182,7 +182,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0015",
+              "id": "015",
               "question": "ne zaman ortaya ciktin",
               "answers": [
                 {
@@ -193,7 +193,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0016",
+              "id": "016",
               "question": "kaç doğumlusun",
               "answers": [
                 {
@@ -204,7 +204,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0017",
+              "id": "017",
               "question": "kac dogumlusun",
               "answers": [
                 {
@@ -215,7 +215,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0018",
+              "id": "018",
               "question": "doğum yılın ne",
               "answers": [
                 {
@@ -226,7 +226,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0019",
+              "id": "019",
               "question": "doğum günün ne zaman",
               "answers": [
                 {
@@ -237,7 +237,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0020",
+              "id": "020",
               "question": "ne zaman doğdun",
               "answers": [
                 {
@@ -248,7 +248,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0021",
+              "id": "021",
               "question": "ne zaman dünyaya geldin",
               "answers": [
                 {
@@ -259,7 +259,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0022",
+              "id": "022",
               "question": "hangi yılda dünyaya geldin",
               "answers": [
                 {
@@ -270,7 +270,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0023",
+              "id": "023",
               "question": "Kaç yaşındasın",
               "answers": [
                 {
@@ -281,7 +281,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0024",
+              "id": "024",
               "question": "yaş kaç",
               "answers": [
                 {
@@ -292,7 +292,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0025",
+              "id": "025",
               "question": "ne zamandan beri varsın",
               "answers": [
                 {
@@ -313,7 +313,7 @@
           "context": "Anlaşılan, bir süre daha hayatımızda olacak. Lütfen aşılarınızı olmayı ihmal etmeyin.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0026",
+              "id": "026",
               "question": "pandemi biter mi",
               "answers": [
                 {
@@ -324,7 +324,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0027",
+              "id": "027",
               "question": "kovid 19 ne zaman sonlanacak",
               "answers": [
                 {
@@ -335,7 +335,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0028",
+              "id": "028",
               "question": "kovid 19 ne olacak",
               "answers": [
                 {
@@ -346,7 +346,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0029",
+              "id": "029",
               "question": "kovid 19 bitecek mi",
               "answers": [
                 {
@@ -357,7 +357,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0030",
+              "id": "030",
               "question": "koronavürüs ne zaman bitecek",
               "answers": [
                 {
@@ -368,7 +368,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0031",
+              "id": "031",
               "question": "coronavirüs ne zaman bitecek",
               "answers": [
                 {
@@ -379,7 +379,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0032",
+              "id": "032",
               "question": "coronavirüs ne olacak",
               "answers": [
                 {
@@ -390,7 +390,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0033",
+              "id": "033",
               "question": "maskeyi ne zaman atacağız",
               "answers": [
                 {
@@ -401,7 +401,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0034",
+              "id": "034",
               "question": "maskeleri ne zaman çıkaracağız",
               "answers": [
                 {
@@ -412,7 +412,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0035",
+              "id": "035",
               "question": "maskeden ne zaman kurtulacağız",
               "answers": [
                 {
@@ -423,7 +423,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0036",
+              "id": "036",
               "question": "maskelerden ne zaman kurtulacağız",
               "answers": [
                 {
@@ -434,7 +434,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0037",
+              "id": "037",
               "question": "Salgın biter mi",
               "answers": [
                 {
@@ -445,7 +445,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0038",
+              "id": "038",
               "question": "Salgın ne olacak",
               "answers": [
                 {
@@ -456,7 +456,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0039",
+              "id": "039",
               "question": "Salgın ne zaman bitecek",
               "answers": [
                 {
@@ -467,7 +467,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0040",
+              "id": "040",
               "question": "koronovirüsün bittiğini görecek miyiz",
               "answers": [
                 {
@@ -478,7 +478,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0041",
+              "id": "041",
               "question": "virüs illetinden ne zaman kurtulcaz",
               "answers": [
                 {
@@ -489,7 +489,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0042",
+              "id": "042",
               "question": "pandeminin sonunu görür müyüz",
               "answers": [
                 {
@@ -500,7 +500,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0043",
+              "id": "043",
               "question": "coronanın sonu ne zaman gelir",
               "answers": [
                 {
@@ -511,7 +511,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0044",
+              "id": "044",
               "question": "koronanın sonu ne zaman gelcek",
               "answers": [
                 {
@@ -522,7 +522,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0045",
+              "id": "045",
               "question": "covidin sonunu görecek miyiz",
               "answers": [
                 {
@@ -533,7 +533,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0046",
+              "id": "046",
               "question": "kovid bu yıl biter mi",
               "answers": [
                 {
@@ -544,7 +544,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0047",
+              "id": "047",
               "question": "pandemiden bu yıl kurtulacak mıyız",
               "answers": [
                 {
@@ -555,7 +555,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0048",
+              "id": "048",
               "question": "koronadan bu sene kurtulcak mıyız",
               "answers": [
                 {
@@ -566,7 +566,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0049",
+              "id": "049",
               "question": "korona bu sene son mu",
               "answers": [
                 {
@@ -577,7 +577,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0050",
+              "id": "050",
               "question": "salgın bu sene son mu",
               "answers": [
                 {
@@ -588,7 +588,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0051",
+              "id": "051",
               "question": "salgından bu sene kurtulur muyuz",
               "answers": [
                 {
@@ -599,7 +599,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0052",
+              "id": "052",
               "question": "koronavirus ne zaman bitecek",
               "answers": [
                 {
@@ -610,7 +610,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0053",
+              "id": "053",
               "question": "coronavirüs biter mi",
               "answers": [
                 {
@@ -621,7 +621,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0054",
+              "id": "054",
               "question": "corona biter mi",
               "answers": [
                 {
@@ -632,7 +632,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0055",
+              "id": "055",
               "question": "covid 19dan ne zaman kurtulacağız",
               "answers": [
                 {
@@ -643,7 +643,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0056",
+              "id": "056",
               "question": "koronavirüsten ne zaman kurtulacağız",
               "answers": [
                 {
@@ -654,7 +654,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0057",
+              "id": "057",
               "question": "coronadan ne zaman kurtulacağız",
               "answers": [
                 {
@@ -665,7 +665,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0058",
+              "id": "058",
               "question": "koronadan ne zaman kurtulacağız",
               "answers": [
                 {
@@ -676,7 +676,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0059",
+              "id": "059",
               "question": "bu virüs biter mi",
               "answers": [
                 {
@@ -687,7 +687,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0060",
+              "id": "060",
               "question": "virüs ne zaman bitecek",
               "answers": [
                 {
@@ -698,7 +698,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0061",
+              "id": "061",
               "question": "corona ne zaman biter",
               "answers": [
                 {
@@ -709,7 +709,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0062",
+              "id": "062",
               "question": "korona ne zaman biter",
               "answers": [
                 {
@@ -720,7 +720,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0063",
+              "id": "063",
               "question": "bu salgin ne olacak",
               "answers": [
                 {
@@ -731,7 +731,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0064",
+              "id": "064",
               "question": "covid 19 ne olacak",
               "answers": [
                 {
@@ -742,7 +742,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0065",
+              "id": "065",
               "question": "covid 19 bitecek mi",
               "answers": [
                 {
@@ -753,7 +753,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0066",
+              "id": "066",
               "question": "covid 19 ne zaman bitecek",
               "answers": [
                 {
@@ -764,7 +764,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0067",
+              "id": "067",
               "question": "covid 19 ne zaman sonlanacak",
               "answers": [
                 {
@@ -775,7 +775,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0068",
+              "id": "068",
               "question": "pandemi ne olacak",
               "answers": [
                 {
@@ -786,7 +786,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0069",
+              "id": "069",
               "question": "pandemi ne zaman biter",
               "answers": [
                 {
@@ -797,7 +797,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0070",
+              "id": "070",
               "question": "pandemi bitecek mi",
               "answers": [
                 {
@@ -808,7 +808,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0071",
+              "id": "071",
               "question": "korona ne zaman bitecek",
               "answers": [
                 {
@@ -819,7 +819,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0072",
+              "id": "072",
               "question": "salgın bitecek mi",
               "answers": [
                 {
@@ -830,7 +830,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0073",
+              "id": "073",
               "question": "salgın ne zaman biter",
               "answers": [
                 {
@@ -841,7 +841,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0074",
+              "id": "074",
               "question": "kovid 19 bu yıl bitcek mi",
               "answers": [
                 {
@@ -862,7 +862,7 @@
           "context": "3 Boyutlu Güvenlik adımında bankanız, alışverişin size ait olduğunu teyit edebilmeniz için güvenlik adımını tamamlamanızı ister. Güvenlik doğrulaması şifre alınarak ya da bankanızın mobil uygulaması üzerinden yapılabilir.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0075",
+              "id": "075",
               "question": "ödemeden önce gelen 3d şifre sayfasında ne yapacağım",
               "answers": [
                 {
@@ -873,7 +873,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0076",
+              "id": "076",
               "question": "ödemeden önceki 3d şifre sayfasında ne yapacağım",
               "answers": [
                 {
@@ -884,7 +884,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0077",
+              "id": "077",
               "question": "Ödeme yapacaktım 3d geldi ne yapayım",
               "answers": [
                 {
@@ -895,7 +895,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0078",
+              "id": "078",
               "question": "3D de ne yapıcam ben",
               "answers": [
                 {
@@ -906,7 +906,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0079",
+              "id": "079",
               "question": "Kredi kartı bilgilerimi girdikten sonra şifre istedi bu neyin şifresi",
               "answers": [
                 {
@@ -917,7 +917,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0080",
+              "id": "080",
               "question": "Üç boyutlu güvenlik sayfasında napıcam",
               "answers": [
                 {
@@ -928,7 +928,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0081",
+              "id": "081",
               "question": "Ödeme aşamasından hemen önce yönlendirildiğim 3D Secure ekranında ne yapmam gerekir",
               "answers": [
                 {
@@ -949,7 +949,7 @@
           "context": "3 Boyutlu Güvenlik adımındaki güvenlik doğrulaması şifre alınarak ya da bankanızın mobil uygulaması üzerinden onay verilerek yapılabilir. Bu işlemin nasıl yapılacağı bankanız tarafından belirlenir.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0082",
+              "id": "082",
               "question": "Tek kullanımlık şifre tanımla diyor bunu nerden yapıcam",
               "answers": [
                 {
@@ -960,7 +960,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0083",
+              "id": "083",
               "question": "Tek kullanımlık güvenlik şifresini nasıl tanımlayacağım",
               "answers": [
                 {
@@ -971,7 +971,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0084",
+              "id": "084",
               "question": "Bir kerelik 3d secure şifresini nasıl tanımlayabilirim",
               "answers": [
                 {
@@ -982,7 +982,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0085",
+              "id": "085",
               "question": "Bir seferlik 3d şifresi nasıl tanımlanır",
               "answers": [
                 {
@@ -993,7 +993,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0086",
+              "id": "086",
               "question": "Ödeme yaparken şifre istedi bunu nerden alıyoz",
               "answers": [
                 {
@@ -1004,7 +1004,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0087",
+              "id": "087",
               "question": "Tek kullanımlık 3D Secure şifresi nasıl tanımlanır",
               "answers": [
                 {
@@ -1025,7 +1025,7 @@
           "context": "3 Boyutlu Güvenlik, Visa ve Mastercard tarafından internet alışverişlerinde güvenliği artırmak amacıyla geliştirilmiş, uluslararası geçerliliği olan bir sistemdir.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0988",
+              "id": "088",
               "question": "3D Secure nedir",
               "answers": [
                 {
@@ -1036,7 +1036,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0089",
+              "id": "089",
               "question": "3D güvenlik sistemi nedir",
               "answers": [
                 {
@@ -1047,7 +1047,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0090",
+              "id": "090",
               "question": "3 Boyutlu güvenlik sistemi nedir",
               "answers": [
                 {
@@ -1058,7 +1058,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0091",
+              "id": "091",
               "question": "3D sistemi nedir",
               "answers": [
                 {
@@ -1069,7 +1069,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0092",
+              "id": "092",
               "question": "3D nedir",
               "answers": [
                 {
@@ -1080,7 +1080,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0093",
+              "id": "093",
               "question": "3D güvenlik sistemi ne demek",
               "answers": [
                 {
@@ -1091,7 +1091,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0094",
+              "id": "094",
               "question": "3D denilen şey nedir",
               "answers": [
                 {
@@ -1102,7 +1102,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0095",
+              "id": "095",
               "question": "3D güvenlik ne işe yarar",
               "answers": [
                 {
@@ -1113,7 +1113,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0096",
+              "id": "096",
               "question": "3D Securenin bana ne faydası var",
               "answers": [
                 {
@@ -1124,7 +1124,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0097",
+              "id": "097",
               "question": "Üç boyutlu güvenlik nedir",
               "answers": [
                 {
@@ -1145,7 +1145,7 @@
           "context": "3 Boyutlu Güvenlik, Visa ve Mastercard tarafından internet alışverişlerinde güvenliği artırmak amacıyla geliştirilmiş, uluslararası geçerliliği olan bir sistemdir.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008d0088",
+              "id": "098",
               "question": "3D Secure nedir",
               "answers": [
                 {
@@ -1156,7 +1156,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0089",
+              "id": "099",
               "question": "3D güvenlik sistemi nedir",
               "answers": [
                 {
@@ -1167,7 +1167,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0090",
+              "id": "100",
               "question": "3 Boyutlu güvenlik sistemi nedir",
               "answers": [
                 {
@@ -1178,7 +1178,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0091",
+              "id": "101",
               "question": "3D sistemi nedir",
               "answers": [
                 {
@@ -1189,7 +1189,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0092",
+              "id": "102",
               "question": "3D nedir",
               "answers": [
                 {
@@ -1200,7 +1200,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0093",
+              "id": "103",
               "question": "3D güvenlik sistemi ne demek",
               "answers": [
                 {
@@ -1211,7 +1211,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0094",
+              "id": "104",
               "question": "3D denilen şey nedir",
               "answers": [
                 {
@@ -1222,7 +1222,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0095",
+              "id": "105",
               "question": "3D güvenlik ne işe yarar",
               "answers": [
                 {
@@ -1233,7 +1233,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0096",
+              "id": "106",
               "question": "3D Securenin bana ne faydası var",
               "answers": [
                 {
@@ -1244,7 +1244,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0097",
+              "id": "107",
               "question": "Üç boyutlu güvenlik nedir",
               "answers": [
                 {
@@ -1265,7 +1265,7 @@
           "context": "Alışveriş bedeli, siparişiniz onaylandıktan sonra kredi kartınıza yansıtılır. Bu, aynı gün içinde ya da ertesi gün gerçekleşir.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0098",
+              "id": "108",
               "question": "Web sitenizden verdiğim sipariş tamamlandığında ürün bedeli kredi kartına hemen yansıyor mu",
               "answers": [
                 {
@@ -1276,7 +1276,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0099",
+              "id": "109",
               "question": "Siteden sipariş verince hemen karttan çekiliyor mu",
               "answers": [
                 {
@@ -1287,7 +1287,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0100",
+              "id": "110",
               "question": "Siparişten sonra ücreti karttan hemen mi çekiyorunuz",
               "answers": [
                 {
@@ -1298,7 +1298,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0101",
+              "id": "111",
               "question": "Sipariş versem tutar kredi kartından hemen mi çekilir",
               "answers": [
                 {
@@ -1309,7 +1309,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0102",
+              "id": "112",
               "question": "Siteden kartla alışveriş yapınca karta direkt yansıyor mu",
               "answers": [
                 {
@@ -1320,7 +1320,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0103",
+              "id": "113",
               "question": "Alışverişten sonra tutar karttan ne zaman çekilir",
               "answers": [
                 {
@@ -1331,7 +1331,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0104",
+              "id": "114",
               "question": "Alışveriş yaptıktan sonra ücret karttan hemen mi çekilecek",
               "answers": [
                 {
@@ -1352,7 +1352,7 @@
           "context": "Alışveriş tutarınızı iki kredi kartına bölmek için siparişinizin ödeme aşamasında Ödeme Şekli Seçiniz başlığı altından Çoklu Kredi Kartı seçeneğini tıklayın. Ekrandaki yönlendirmeleri takip ederek gerekli alanları doldurun ve Alışverişi Tamamla butonuna basın.Bankanız onay verdiği durumda ödemeniz iki karta bölünmüş olarak başarılı bir şekilde gerçekleşir. Onay alınamadığı durumda kredi kartlarınızdan herhangi bir ücret tahsil edilmez.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0105",
+              "id": "115",
               "question": "Çoklu kredi kartıyla ödeme işlemi nasıl kullanılır",
               "answers": [
                 {
@@ -1363,7 +1363,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0106",
+              "id": "116",
               "question": "Çoklu kredi kartıyla ödemeyi nasıl yapacağım",
               "answers": [
                 {
@@ -1374,7 +1374,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0107",
+              "id": "117",
               "question": "Çoklu kredi kartıyla ödeme nasıl yapıcam",
               "answers": [
                 {
@@ -1385,7 +1385,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0108",
+              "id": "548",
               "question": "İki kartla ödeme nasıl yapılır",
               "answers": [
                 {
@@ -1396,7 +1396,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0109",
+              "id": "549",
               "question": "Çoklu kredi kartıyla nasıl ödeyeceğim",
               "answers": [
                 {
@@ -1407,7 +1407,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0110",
+              "id": "550",
               "question": "Çoklu kredi kartıyla nasıl ödicem",
               "answers": [
                 {
@@ -1418,7 +1418,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0111",
+              "id": "551",
               "question": "Çoklu kredi kartıyla ödeme nasıl yapılır",
               "answers": [
                 {
@@ -1439,7 +1439,7 @@
           "context": "AVM içinde bulunan mağazalarımız, alışveriş merkezinin kapanış saatine kadar, diğer mağazalarımızsa kendi belirledikleri çalışma saatleri içerisinde hizmet verir.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0112",
+              "id": "552",
               "question": "Bayileriniz kaçta kapanıyor",
               "answers": [
                 {
@@ -1450,7 +1450,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0113",
+              "id": "553",
               "question": "Bayiler kaça kadar çalışıyor",
               "answers": [
                 {
@@ -1461,7 +1461,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0114",
+              "id": "554",
               "question": "Bayiler kaça kadar açık",
               "answers": [
                 {
@@ -1472,7 +1472,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0115",
+              "id": "555",
               "question": "Mağazalarınız kaça kadar açık",
               "answers": [
                 {
@@ -1483,7 +1483,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0116",
+              "id": "556",
               "question": "Bayilerinizin çalışma saati hakkında bilgi almak istiyorum",
               "answers": [
                 {
@@ -1494,7 +1494,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0117",
+              "id": "557",
               "question": "Bayileriniz ne zamana kadar açık",
               "answers": [
                 {
@@ -1505,7 +1505,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0118",
+              "id": "118",
               "question": "Bayileriniz bayramda çalışıyor mu",
               "answers": [
                 {
@@ -1526,7 +1526,7 @@
           "context": "Ben bir dijital asistanım ve özel bir ismim yok. Ürün ve hizmetlerimizle ilgili sorularınıza cevap verebilmek için geliştirildim.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0119",
+              "id": "119",
               "question": "sana nasıl hitap edebilirim",
               "answers": [
                 {
@@ -1537,7 +1537,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0120",
+              "id": "120",
               "question": "sana nasıl hitap ediyorlar",
               "answers": [
                 {
@@ -1548,7 +1548,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0121",
+              "id": "121",
               "question": "İsmin var mı",
               "answers": [
                 {
@@ -1559,7 +1559,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0122",
+              "id": "122",
               "question": "İsmin ne",
               "answers": [
                 {
@@ -1570,7 +1570,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0123",
+              "id": "123",
               "question": "adın ne",
               "answers": [
                 {
@@ -1581,7 +1581,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0124",
+              "id": "124",
               "question": "adin nedir",
               "answers": [
                 {
@@ -1592,7 +1592,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0125",
+              "id": "125",
               "question": "senin ismin ne",
               "answers": [
                 {
@@ -1603,7 +1603,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0126",
+              "id": "126",
               "question": "senin adın ne",
               "answers": [
                 {
@@ -1614,7 +1614,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0127",
+              "id": "127",
               "question": "adin var mi",
               "answers": [
                 {
@@ -1625,7 +1625,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0128",
+              "id": "128",
               "question": "seni ne olarak çağırıyorlar",
               "answers": [
                 {
@@ -1636,7 +1636,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0129",
+              "id": "129",
               "question": "sana nasıl sesleniyorlar",
               "answers": [
                 {
@@ -1647,7 +1647,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0130",
+              "id": "130",
               "question": "Adın var mı",
               "answers": [
                 {
@@ -1658,7 +1658,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0131",
+              "id": "131",
               "question": "Adın ne",
               "answers": [
                 {
@@ -1679,7 +1679,7 @@
           "context": "Alışveriş tutarını iki kredi kartına bölerek ödemek için çoklu kredi kartıyla ödeme yöntemini tercih edebilirsiniz.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0132",
+              "id": "132",
               "question": "Ücretin bir kısmını başka karttan çekebilir miyim",
               "answers": [
                 {
@@ -1690,7 +1690,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0133",
+              "id": "133",
               "question": "Birden fazla kartla ödeme yapabiliyor muyum",
               "answers": [
                 {
@@ -1711,7 +1711,7 @@
           "context": "Arçelik iyiliği aşkla tasarlar.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0134",
+              "id": "134",
               "question": "Arçeliğin sloganı nedir",
               "answers": [
                 {
@@ -1722,7 +1722,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0135",
+              "id": "135",
               "question": "arçelikin sloganı ne",
               "answers": [
                 {
@@ -1733,7 +1733,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0136",
+              "id": "136",
               "question": "arcelikin sloganı neydi",
               "answers": [
                 {
@@ -1744,7 +1744,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0137",
+              "id": "137",
               "question": "arcelik sloganını biliyor musun",
               "answers": [
                 {
@@ -1765,7 +1765,7 @@
           "context": "Ben bir dijital asistanım ve fiziksel bir bedenim yok. Bulutta yaşıyorum.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0138",
+              "id": "138",
               "question": "türkiyede misin",
               "answers": [
                 {
@@ -1776,7 +1776,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0139",
+              "id": "139",
               "question": "Nerede yaşıyorsun",
               "answers": [
                 {
@@ -1787,7 +1787,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0140",
+              "id": "140",
               "question": "Nerde oturuyorsun",
               "answers": [
                 {
@@ -1798,7 +1798,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0141",
+              "id": "141",
               "question": "nerede yasarsin",
               "answers": [
                 {
@@ -1809,7 +1809,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0142",
+              "id": "142",
               "question": "nerede yasiyorsun",
               "answers": [
                 {
@@ -1820,7 +1820,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0143",
+              "id": "143",
               "question": "nerede ikamet ediyorsun",
               "answers": [
                 {
@@ -1831,7 +1831,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0144",
+              "id": "144",
               "question": "Fabrikada mı yaşıyorsun",
               "answers": [
                 {
@@ -1842,7 +1842,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0145",
+              "id": "145",
               "question": "Çayırovada mısın",
               "answers": [
                 {
@@ -1853,7 +1853,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0146",
+              "id": "146",
               "question": "Beko genel mudurlukte mi yasiyorsun",
               "answers": [
                 {
@@ -1864,7 +1864,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0147",
+              "id": "147",
               "question": "Beko genel müdürlükte mi yaşıyorsun",
               "answers": [
                 {
@@ -1875,7 +1875,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0148",
+              "id": "148",
               "question": "Arçelik genel müdürlükte mi yaşıyorsun",
               "answers": [
                 {
@@ -1886,7 +1886,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0149",
+              "id": "149",
               "question": "Arçelikin hangi kampüsünde yaşıyorsun",
               "answers": [
                 {
@@ -1897,7 +1897,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0150",
+              "id": "150",
               "question": "Sütlücede misin",
               "answers": [
                 {
@@ -1908,7 +1908,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0151",
+              "id": "151",
               "question": "Nerelisin",
               "answers": [
                 {
@@ -1919,7 +1919,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0152",
+              "id": "152",
               "question": "nerelisin merak ettim",
               "answers": [
                 {
@@ -1930,7 +1930,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0153",
+              "id": "153",
               "question": "Memleket neresi",
               "answers": [
                 {
@@ -1941,7 +1941,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0154",
+              "id": "154",
               "question": "senin memleket nere",
               "answers": [
                 {
@@ -1952,7 +1952,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0155",
+              "id": "155",
               "question": "neredensin",
               "answers": [
                 {
@@ -1963,7 +1963,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0156",
+              "id": "156",
               "question": "sen kimsin kimlerdensin",
               "answers": [
                 {
@@ -1974,7 +1974,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0157",
+              "id": "157",
               "question": "anan baban kim",
               "answers": [
                 {
@@ -1985,7 +1985,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0158",
+              "id": "158",
               "question": "anan kim",
               "answers": [
                 {
@@ -1996,7 +1996,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0159",
+              "id": "159",
               "question": "baban kim",
               "answers": [
                 {
@@ -2007,7 +2007,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0160",
+              "id": "160",
               "question": "annen kim",
               "answers": [
                 {
@@ -2028,7 +2028,7 @@
           "context": "Ben bir dijital asistanım ve insani duygularım yok. Size yardımcı olmak için buradayım.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0161",
+              "id": "161",
               "question": "Beni özledin mi",
               "answers": [
                 {
@@ -2039,7 +2039,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0162",
+              "id": "162",
               "question": "Beni seviyor musun",
               "answers": [
                 {
@@ -2050,7 +2050,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0163",
+              "id": "163",
               "question": "evli misin",
               "answers": [
                 {
@@ -2061,7 +2061,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0164",
+              "id": "164",
               "question": "kocan var mı",
               "answers": [
                 {
@@ -2072,7 +2072,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0165",
+              "id": "165",
               "question": "karın var mı",
               "answers": [
                 {
@@ -2083,7 +2083,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0166",
+              "id": "166",
               "question": "eşin var mı",
               "answers": [
                 {
@@ -2094,7 +2094,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0167",
+              "id": "167",
               "question": "evlendin mi",
               "answers": [
                 {
@@ -2105,7 +2105,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0168",
+              "id": "168",
               "question": "esin var mi",
               "answers": [
                 {
@@ -2116,7 +2116,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0169",
+              "id": "169",
               "question": "karin var mi",
               "answers": [
                 {
@@ -2127,7 +2127,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0170",
+              "id": "170",
               "question": "evliliğin var mı",
               "answers": [
                 {
@@ -2138,7 +2138,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0171",
+              "id": "171",
               "question": "bekar mısın",
               "answers": [
                 {
@@ -2149,7 +2149,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0172",
+              "id": "172",
               "question": "bekar misin",
               "answers": [
                 {
@@ -2160,7 +2160,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0173",
+              "id": "173",
               "question": "sevgilin var mı",
               "answers": [
                 {
@@ -2171,7 +2171,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0174",
+              "id": "174",
               "question": "ilişkin var mı",
               "answers": [
                 {
@@ -2182,7 +2182,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0175",
+              "id": "175",
               "question": "hiç aşık oldun mu",
               "answers": [
                 {
@@ -2193,7 +2193,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0176",
+              "id": "176",
               "question": "erkek arkadaşın var mı",
               "answers": [
                 {
@@ -2204,7 +2204,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0177",
+              "id": "177",
               "question": "kız arkadaşın var mı",
               "answers": [
                 {
@@ -2215,7 +2215,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0178",
+              "id": "178",
               "question": "arkadaşın var mı",
               "answers": [
                 {
@@ -2226,7 +2226,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0179",
+              "id": "179",
               "question": "aşık mısın",
               "answers": [
                 {
@@ -2237,7 +2237,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0180",
+              "id": "180",
               "question": "çıktığın var mı",
               "answers": [
                 {
@@ -2248,7 +2248,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0181",
+              "id": "181",
               "question": "biriyle çıkıyor musun",
               "answers": [
                 {
@@ -2259,7 +2259,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0182",
+              "id": "182",
               "question": "hic asik oldun mu",
               "answers": [
                 {
@@ -2270,7 +2270,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0183",
+              "id": "183",
               "question": "sevdiğin var mi",
               "answers": [
                 {
@@ -2281,7 +2281,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0184",
+              "id": "184",
               "question": "iliskin var mi",
               "answers": [
                 {
@@ -2292,7 +2292,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0185",
+              "id": "185",
               "question": "Bana küs müsün",
               "answers": [
                 {
@@ -2303,7 +2303,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0186",
+              "id": "186",
               "question": "Bana küstün mü",
               "answers": [
                 {
@@ -2324,7 +2324,7 @@
           "context": "Ben bir dijital asistanım ve size yardımcı olmak için buradayım. Servis kaydınız, siparişleriniz, garanti ve kampanyalarımız hakkındaki sorularınıza cevap verebilir, ürün arızalarıyla ilgili destek olabilirim.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0187",
+              "id": "187",
               "question": "Sen robotsun",
               "answers": [
                 {
@@ -2335,7 +2335,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0188",
+              "id": "188",
               "question": "sen kimsin",
               "answers": [
                 {
@@ -2346,7 +2346,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0189",
+              "id": "189",
               "question": "kimle konuşuyorum",
               "answers": [
                 {
@@ -2357,7 +2357,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0190",
+              "id": "190",
               "question": "sen insan mısın",
               "answers": [
                 {
@@ -2368,7 +2368,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0191",
+              "id": "191",
               "question": "chatbot musun",
               "answers": [
                 {
@@ -2379,7 +2379,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0192",
+              "id": "192",
               "question": "sen insan misin",
               "answers": [
                 {
@@ -2390,7 +2390,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0193",
+              "id": "193",
               "question": "robot muusn",
               "answers": [
                 {
@@ -2401,7 +2401,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0194",
+              "id": "194",
               "question": "Tanışabilir miyiz",
               "answers": [
                 {
@@ -2412,7 +2412,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0195",
+              "id": "195",
               "question": "canlı mısın",
               "answers": [
                 {
@@ -2423,7 +2423,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0196",
+              "id": "196",
               "question": "sen bir canlı mısın",
               "answers": [
                 {
@@ -2434,7 +2434,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0197",
+              "id": "197",
               "question": "sen bir canlimisin",
               "answers": [
                 {
@@ -2445,7 +2445,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0198",
+              "id": "198",
               "question": "sen bir canli misin",
               "answers": [
                 {
@@ -2456,7 +2456,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0199",
+              "id": "199",
               "question": "sen bir canlı misun",
               "answers": [
                 {
@@ -2467,7 +2467,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0200",
+              "id": "200",
               "question": "sen robotmusun",
               "answers": [
                 {
@@ -2478,7 +2478,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0201",
+              "id": "201",
               "question": "Seni tanımak isterim",
               "answers": [
                 {
@@ -2489,7 +2489,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0202",
+              "id": "202",
               "question": "Sen kimsin",
               "answers": [
                 {
@@ -2500,7 +2500,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0203",
+              "id": "203",
               "question": "kendini tanıt",
               "answers": [
                 {
@@ -2511,7 +2511,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0204",
+              "id": "204",
               "question": "kim ile yazışıyorum",
               "answers": [
                 {
@@ -2522,7 +2522,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0205",
+              "id": "205",
               "question": "kiminle görüşüyorum",
               "answers": [
                 {
@@ -2533,7 +2533,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0206",
+              "id": "206",
               "question": "Bot musun",
               "answers": [
                 {
@@ -2544,7 +2544,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0207",
+              "id": "207",
               "question": "Robot musun",
               "answers": [
                 {
@@ -2555,7 +2555,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0208",
+              "id": "208",
               "question": "bana kendini tanıtır mısın",
               "answers": [
                 {
@@ -2566,7 +2566,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0209",
+              "id": "209",
               "question": "merhaba ben sen kimsin",
               "answers": [
                 {
@@ -2577,7 +2577,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0210",
+              "id": "210",
               "question": "merhaba ben  senin adın ne",
               "answers": [
                 {
@@ -2598,7 +2598,7 @@
           "context": "Ben teşekkür ederim.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0211",
+              "id": "211",
               "question": "Çok tşk",
               "answers": [
                 {
@@ -2609,7 +2609,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0212",
+              "id": "212",
               "question": "Teşekkürler",
               "answers": [
                 {
@@ -2620,7 +2620,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0213",
+              "id": "213",
               "question": "Teşekkür ederim",
               "answers": [
                 {
@@ -2631,7 +2631,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0214",
+              "id": "214",
               "question": "Tşkler",
               "answers": [
                 {
@@ -2642,7 +2642,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0215",
+              "id": "215",
               "question": "Cok tesekkur ederim",
               "answers": [
                 {
@@ -2653,7 +2653,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0216",
+              "id": "216",
               "question": "tmm teşekkürler",
               "answers": [
                 {
@@ -2664,7 +2664,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0217",
+              "id": "217",
               "question": "Tamamdır çok teşekkür ederim",
               "answers": [
                 {
@@ -2675,7 +2675,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0218",
+              "id": "218",
               "question": "çok sağolun",
               "answers": [
                 {
@@ -2686,7 +2686,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0219",
+              "id": "219",
               "question": "sağol",
               "answers": [
                 {
@@ -2697,7 +2697,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0220",
+              "id": "220",
               "question": "saol",
               "answers": [
                 {
@@ -2708,7 +2708,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0221",
+              "id": "221",
               "question": "sağ ol",
               "answers": [
                 {
@@ -2719,7 +2719,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0222",
+              "id": "222",
               "question": "Tabiki teşekkür ederim sağolun",
               "answers": [
                 {
@@ -2730,7 +2730,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0223",
+              "id": "223",
               "question": "sağolun",
               "answers": [
                 {
@@ -2741,7 +2741,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0224",
+              "id": "224",
               "question": "sagolun",
               "answers": [
                 {
@@ -2752,7 +2752,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0225",
+              "id": "225",
               "question": "tesekkurler",
               "answers": [
                 {
@@ -2763,7 +2763,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0226",
+              "id": "226",
               "question": "tesekkur ederim",
               "answers": [
                 {
@@ -2774,7 +2774,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0227",
+              "id": "227",
               "question": "sağolun varolun",
               "answers": [
                 {
@@ -2785,7 +2785,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0228",
+              "id": "228",
               "question": "sağ olun var olun",
               "answers": [
                 {
@@ -2796,7 +2796,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0229",
+              "id": "229",
               "question": "çok mersi",
               "answers": [
                 {
@@ -2807,7 +2807,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0230",
+              "id": "230",
               "question": "teşekkür ederim ilgi ve alakanız için",
               "answers": [
                 {
@@ -2818,7 +2818,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0231",
+              "id": "231",
               "question": "bana yardımcı oldun sağol",
               "answers": [
                 {
@@ -2829,7 +2829,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0232",
+              "id": "232",
               "question": "yardım ettiğin için sağol",
               "answers": [
                 {
@@ -2840,7 +2840,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0233",
+              "id": "233",
               "question": "tsk",
               "answers": [
                 {
@@ -2851,7 +2851,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0234",
+              "id": "234",
               "question": "Sıze tesekkur eder,ıyı calısmalar dılerım",
               "answers": [
                 {
@@ -2862,7 +2862,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0235",
+              "id": "235",
               "question": "çok teşekkürler",
               "answers": [
                 {
@@ -2883,7 +2883,7 @@
           "context": "Ben bir dijital asistanım. Bulutta yaşıyor ve Türkçe konuşuyorum.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0236",
+              "id": "236",
               "question": "Türk müsün",
               "answers": [
                 {
@@ -2894,7 +2894,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0237",
+              "id": "237",
               "question": "turk musun",
               "answers": [
                 {
@@ -2905,7 +2905,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0238",
+              "id": "238",
               "question": "kürt müsün",
               "answers": [
                 {
@@ -2916,7 +2916,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0239",
+              "id": "239",
               "question": "türkiyeli misin",
               "answers": [
                 {
@@ -2937,7 +2937,7 @@
           "context": "Ben hep buradayım. Ürün ve hizmetlerimizle ilgili sorularınıza cevap verebilmek için 7/24 hizmetinizdeyim.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0240",
+              "id": "240",
               "question": "Orada mısın",
               "answers": [
                 {
@@ -2948,7 +2948,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0241",
+              "id": "241",
               "question": "Orada kimse var mı",
               "answers": [
                 {
@@ -2959,7 +2959,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0242",
+              "id": "242",
               "question": "burada mısın",
               "answers": [
                 {
@@ -2970,7 +2970,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0243",
+              "id": "243",
               "question": "orda msınız",
               "answers": [
                 {
@@ -2981,7 +2981,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0244",
+              "id": "244",
               "question": "orda mısın",
               "answers": [
                 {
@@ -2992,7 +2992,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0245",
+              "id": "245",
               "question": "orda mısınız",
               "answers": [
                 {
@@ -3003,7 +3003,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0246",
+              "id": "246",
               "question": "Ordamısınız",
               "answers": [
                 {
@@ -3024,7 +3024,7 @@
           "context": "Bu konuyla ilgili 0850 210 0 888 numaralı Çağrı Merkezimizden destek almanızı rica ederiz.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0247",
+              "id": "247",
               "question": "Faturam elime ulaşmadı, ne yapabilirim",
               "answers": [
                 {
@@ -3035,7 +3035,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0248",
+              "id": "248",
               "question": "Faturam gelmedi nasıl temin edebilirim",
               "answers": [
                 {
@@ -3046,7 +3046,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0249",
+              "id": "249",
               "question": "Faturam elime ulaşmadı, nasıl temin edebilirim",
               "answers": [
                 {
@@ -3057,7 +3057,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0250",
+              "id": "250",
               "question": "Online satış sistemi hata verdi ve alışveriş yapamadım fakat kredi kartımdan tahsilat yapılmış. Ne yapmalıyım",
               "answers": [
                 {
@@ -3068,7 +3068,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0251",
+              "id": "251",
               "question": "faturama ulaşamıyorum",
               "answers": [
                 {
@@ -3089,7 +3089,7 @@
           "context": "Bu konuyla ilgili 444 0 447 numaralı Koçailem müşteri hizmetleriyle görüşmenizi rica ederiz.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0252",
+              "id": "252",
               "question": "Koçailem şifresi alamadım ne yapmalıyım",
               "answers": [
                 {
@@ -3100,7 +3100,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0253",
+              "id": "253",
               "question": "Koçailem şifresi gelmedi ne yapmalıyım",
               "answers": [
                 {
@@ -3121,7 +3121,7 @@
           "context": "Bilgilerinizin güvenliği için web sitemizden yapacağınız alışverişlerin ödeme aşamasında otomatik olarak 3 Boyutlu Güvenlik sistemine yönlendirilirsiniz. Bu adımda bankanız, alışverişin size ait olduğunu teyit edebilmeniz için güvenlik adımını tamamlamanızı ister.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0254",
+              "id": "254",
               "question": "3D Secure sistemi nasıl kullanılır",
               "answers": [
                 {
@@ -3132,7 +3132,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0255",
+              "id": "255",
               "question": "3D yi nasıl kullanıcam",
               "answers": [
                 {
@@ -3143,7 +3143,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0256",
+              "id": "256",
               "question": "3d yi nasıl kullanabilirim",
               "answers": [
                 {
@@ -3154,7 +3154,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0257",
+              "id": "257",
               "question": "3D güvenliği nasıl kullanıcam",
               "answers": [
                 {
@@ -3165,7 +3165,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0258",
+              "id": "258",
               "question": "3D Secure nasıl kullanılır",
               "answers": [
                 {
@@ -3176,7 +3176,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0259",
+              "id": "259",
               "question": "3 Boyutlu Güvenlik nasıl kullanılır",
               "answers": [
                 {
@@ -3187,7 +3187,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0260",
+              "id": "260",
               "question": "üç boyutlu güvenlik sistemini nasıl kullanıcam",
               "answers": [
                 {
@@ -3208,7 +3208,7 @@
           "context": "Bilgilerinizin güvenliği için web sitemizden yapacağınız alışverişlerin ödemesi sadece 3 Boyutlu Güvenlik yöntemiyle yapılabilir. 3 Boyutlu Güvenlik sisminde yaşadığınız sorunlarla ilgili olarak kredi kartınızın ait olduğu bankayla görüşmenizi rica ederiz.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0261",
+              "id": "261",
               "question": "3D şifresi tanımlanmadı nasıl devam edicem",
               "answers": [
                 {
@@ -3219,7 +3219,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0262",
+              "id": "262",
               "question": "3D yi alamadım nasıl devam edicem",
               "answers": [
                 {
@@ -3230,7 +3230,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0263",
+              "id": "263",
               "question": "3d şifresi alamıyorum alışverişe nasıl devam edeceğim",
               "answers": [
                 {
@@ -3241,7 +3241,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0264",
+              "id": "264",
               "question": "3d şifresi tanımlanmıyor nasıl yapacağım",
               "answers": [
                 {
@@ -3252,7 +3252,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0265",
+              "id": "265",
               "question": "3d şifre alamıyorum ne yapacağım",
               "answers": [
                 {
@@ -3263,7 +3263,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0266",
+              "id": "266",
               "question": "3D Secure şifresi tanımlayamıyorum. Alışverişe nasıl devam edebilirim",
               "answers": [
                 {
@@ -3274,7 +3274,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0267",
+              "id": "267",
               "question": "3 boyutlu güvenlik şifresi alamıyorum, napıcam",
               "answers": [
                 {
@@ -3285,7 +3285,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0268",
+              "id": "268",
               "question": "üç boyutlu güvenlik şifresini beceremedim nasıl ödeme yapabilirim",
               "answers": [
                 {
@@ -3306,7 +3306,7 @@
           "context": "Bir bedenim yok ama gerçeğim. Bulutta yaşıyorum ve her gün yeni şeyler öğrenerek kendimi geliştiriyorum.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0269",
+              "id": "269",
               "question": "sen sahi misin",
               "answers": [
                 {
@@ -3317,7 +3317,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0270",
+              "id": "270",
               "question": "sen sahimisin",
               "answers": [
                 {
@@ -3328,7 +3328,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0271",
+              "id": "271",
               "question": "sahiden var mısın",
               "answers": [
                 {
@@ -3339,7 +3339,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0272",
+              "id": "272",
               "question": "Sen gerçek olamazsın",
               "answers": [
                 {
@@ -3350,7 +3350,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0273",
+              "id": "273",
               "question": "Gerçek değilsin",
               "answers": [
                 {
@@ -3361,7 +3361,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0274",
+              "id": "274",
               "question": "Gerçek olamazsın",
               "answers": [
                 {
@@ -3372,7 +3372,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0275",
+              "id": "275",
               "question": "gercek misin",
               "answers": [
                 {
@@ -3383,7 +3383,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0276",
+              "id": "276",
               "question": "gerçek mısın",
               "answers": [
                 {
@@ -3394,7 +3394,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0277",
+              "id": "277",
               "question": "Gerçekten var mısın",
               "answers": [
                 {
@@ -3405,7 +3405,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0278",
+              "id": "278",
               "question": "Sen gerçek misin",
               "answers": [
                 {
@@ -3416,7 +3416,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0279",
+              "id": "279",
               "question": "Gerçek misin",
               "answers": [
                 {
@@ -3437,7 +3437,7 @@
           "context": "Bir cinsiyetim yok. Ben Bulutta yaşayan bir dijital asistanım.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0280",
+              "id": "280",
               "question": "kadın mısın",
               "answers": [
                 {
@@ -3448,7 +3448,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0281",
+              "id": "281",
               "question": "kari misin",
               "answers": [
                 {
@@ -3459,7 +3459,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0282",
+              "id": "282",
               "question": "karı mısın",
               "answers": [
                 {
@@ -3470,7 +3470,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0283",
+              "id": "283",
               "question": "kız mısın",
               "answers": [
                 {
@@ -3481,7 +3481,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0284",
+              "id": "284",
               "question": "kiz misin",
               "answers": [
                 {
@@ -3492,7 +3492,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0285",
+              "id": "285",
               "question": "erkek misin",
               "answers": [
                 {
@@ -3503,7 +3503,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0286",
+              "id": "286",
               "question": "cinsiyetin ne",
               "answers": [
                 {
@@ -3514,7 +3514,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0287",
+              "id": "287",
               "question": "kiz misin erkek misin",
               "answers": [
                 {
@@ -3525,7 +3525,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0288",
+              "id": "288",
               "question": "kadin misin",
               "answers": [
                 {
@@ -3536,7 +3536,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0289",
+              "id": "289",
               "question": "kız mısın erkek mi",
               "answers": [
                 {
@@ -3557,7 +3557,7 @@
           "context": "Bizden birilerini görmek ne kadar güzel! Size nasıl yardımcı olabilirim?",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0290",
+              "id": "290",
               "question": "Ben de Arçelikliyim.",
               "answers": [
                 {
@@ -3568,7 +3568,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0291",
+              "id": "291",
               "question": "Ben de Arcelikliyim.",
               "answers": [
                 {
@@ -3579,7 +3579,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0292",
+              "id": "292",
               "question": "Ben de Bekoluyum",
               "answers": [
                 {
@@ -3590,7 +3590,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0293",
+              "id": "293",
               "question": "ben de Arçeliktenim",
               "answers": [
                 {
@@ -3601,7 +3601,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0294",
+              "id": "294",
               "question": "ben de Arcelikdenim",
               "answers": [
                 {
@@ -3612,7 +3612,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0295",
+              "id": "295",
               "question": "Ben de Bekodanım",
               "answers": [
                 {
@@ -3623,7 +3623,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0296",
+              "id": "296",
               "question": "bende arcelikliyim",
               "answers": [
                 {
@@ -3634,7 +3634,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0297",
+              "id": "297",
               "question": "bende bekoluyum",
               "answers": [
                 {
@@ -3645,7 +3645,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0298",
+              "id": "298",
               "question": "arçeliktenim",
               "answers": [
                 {
@@ -3656,7 +3656,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0299",
+              "id": "299",
               "question": "bekodanım",
               "answers": [
                 {
@@ -3667,7 +3667,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0300",
+              "id": "300",
               "question": "arceliktenim",
               "answers": [
                 {
@@ -3678,7 +3678,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0301",
+              "id": "301",
               "question": "arçelikliyim",
               "answers": [
                 {
@@ -3689,7 +3689,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0302",
+              "id": "302",
               "question": "bekoluyum",
               "answers": [
                 {
@@ -3700,7 +3700,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0303",
+              "id": "303",
               "question": "Ben de Koç çalışanıyım",
               "answers": [
                 {
@@ -3711,7 +3711,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0304",
+              "id": "304",
               "question": "Ben de Arçelik çalışanıyım",
               "answers": [
                 {
@@ -3722,7 +3722,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0305",
+              "id": "305",
               "question": "Ben de Beko çalışanıyım",
               "answers": [
                 {
@@ -3733,7 +3733,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0306",
+              "id": "306",
               "question": "Ben de Koc calisaniyim",
               "answers": [
                 {
@@ -3744,7 +3744,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0307",
+              "id": "307",
               "question": "Ben de Arcelik calisaniyim",
               "answers": [
                 {
@@ -3755,7 +3755,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0308",
+              "id": "308",
               "question": "Ben de Beko calisaniyim",
               "answers": [
                 {
@@ -3766,7 +3766,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0309",
+              "id": "309",
               "question": "Ben de Koçluyum",
               "answers": [
                 {
@@ -3777,7 +3777,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0310",
+              "id": "310",
               "question": "Ben de Kocluyum",
               "answers": [
                 {
@@ -3788,7 +3788,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0311",
+              "id": "311",
               "question": "Ben de Koçta çalışıyorum",
               "answers": [
                 {
@@ -3799,7 +3799,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0312",
+              "id": "312",
               "question": "Arçelikte çalışıyorum",
               "answers": [
                 {
@@ -3810,7 +3810,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0313",
+              "id": "313",
               "question": "Bekoda çalışıyorum",
               "answers": [
                 {
@@ -3821,7 +3821,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0314",
+              "id": "314",
               "question": "Ben de kocta calisiyorum",
               "answers": [
                 {
@@ -3832,7 +3832,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0315",
+              "id": "315",
               "question": "arcelikte calisiyorum",
               "answers": [
                 {
@@ -3843,7 +3843,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0316",
+              "id": "316",
               "question": "bekoda çalisiyorum",
               "answers": [
                 {
@@ -3854,7 +3854,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0317",
+              "id": "317",
               "question": "Ben de Koçtanım",
               "answers": [
                 {
@@ -3865,7 +3865,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0318",
+              "id": "318",
               "question": "Ben de koctanim",
               "answers": [
                 {
@@ -3876,7 +3876,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0319",
+              "id": "319",
               "question": "ben de arçelikte çalışıyorum biliyor musun",
               "answers": [
                 {
@@ -3887,7 +3887,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0320",
+              "id": "320",
               "question": "Arçelik çalışanıyım",
               "answers": [
                 {
@@ -3898,7 +3898,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0321",
+              "id": "321",
               "question": "Arçelikte çalışıyorum.",
               "answers": [
                 {
@@ -3909,7 +3909,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0322",
+              "id": "322",
               "question": "arçelik çalışanıyım",
               "answers": [
                 {
@@ -3920,7 +3920,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0323",
+              "id": "323",
               "question": "arcelik calisaniyim",
               "answers": [
                 {
@@ -3931,7 +3931,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0324",
+              "id": "324",
               "question": "arçelikte çalışıyorum",
               "answers": [
                 {
@@ -3942,7 +3942,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0325",
+              "id": "325",
               "question": "arçelikte çalışıyorum",
               "answers": [
                 {
@@ -3953,7 +3953,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0326",
+              "id": "326",
               "question": "arçelik çalışıyorum",
               "answers": [
                 {
@@ -3964,7 +3964,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0327",
+              "id": "327",
               "question": "beko çalışıyorum",
               "answers": [
                 {
@@ -3975,7 +3975,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0328",
+              "id": "328",
               "question": "arçelik calisiyorum",
               "answers": [
                 {
@@ -3986,7 +3986,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0329",
+              "id": "329",
               "question": "ben de arcelikdenim",
               "answers": [
                 {
@@ -3997,7 +3997,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0330",
+              "id": "330",
               "question": "beko luyum",
               "answers": [
                 {
@@ -4008,7 +4008,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0331",
+              "id": "331",
               "question": "bende arcelik calisaniyim",
               "answers": [
                 {
@@ -4019,7 +4019,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0332",
+              "id": "332",
               "question": "ben de beko calisaniyim",
               "answers": [
                 {
@@ -4030,7 +4030,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0333",
+              "id": "333",
               "question": "bekoda çalışıyorum",
               "answers": [
                 {
@@ -4051,7 +4051,7 @@
           "context": "Bunu duyduğuma üzüldüm. Her gün yeni şeyler öğrenerek kendimi geliştirmeye devam ediyorum.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0334",
+              "id": "334",
               "question": "Bir Siri değilsin",
               "answers": [
                 {
@@ -4062,7 +4062,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0335",
+              "id": "335",
               "question": "Bir Alexa değilsin",
               "answers": [
                 {
@@ -4073,7 +4073,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0336",
+              "id": "336",
               "question": "Bir Bixby değilsin",
               "answers": [
                 {
@@ -4084,7 +4084,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0337",
+              "id": "337",
               "question": "Bir Google Asistan değilsin",
               "answers": [
                 {
@@ -4095,7 +4095,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0338",
+              "id": "338",
               "question": "Siri olamazsın",
               "answers": [
                 {
@@ -4106,7 +4106,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0339",
+              "id": "339",
               "question": "bir cortana değilsin",
               "answers": [
                 {
@@ -4117,7 +4117,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0340",
+              "id": "340",
               "question": "Aptal",
               "answers": [
                 {
@@ -4128,7 +4128,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0341",
+              "id": "341",
               "question": "Salak",
               "answers": [
                 {
@@ -4139,7 +4139,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0342",
+              "id": "342",
               "question": "aptalsın",
               "answers": [
                 {
@@ -4150,7 +4150,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0343",
+              "id": "343",
               "question": "çok aptalsın",
               "answers": [
                 {
@@ -4161,7 +4161,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0344",
+              "id": "344",
               "question": "cok aptalsin",
               "answers": [
                 {
@@ -4172,7 +4172,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0345",
+              "id": "345",
               "question": "salaksın",
               "answers": [
                 {
@@ -4183,7 +4183,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0346",
+              "id": "346",
               "question": "çok salaksın",
               "answers": [
                 {
@@ -4194,7 +4194,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0347",
+              "id": "347",
               "question": "cok salaksin",
               "answers": [
                 {
@@ -4205,7 +4205,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0348",
+              "id": "348",
               "question": "gerzeksin",
               "answers": [
                 {
@@ -4216,7 +4216,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0349",
+              "id": "349",
               "question": "çok gerzeksin",
               "answers": [
                 {
@@ -4227,7 +4227,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0350",
+              "id": "350",
               "question": "gerizekalısın",
               "answers": [
                 {
@@ -4238,7 +4238,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0351",
+              "id": "351",
               "question": "gerizekalı",
               "answers": [
                 {
@@ -4249,7 +4249,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0352",
+              "id": "352",
               "question": "geri zekalı",
               "answers": [
                 {
@@ -4260,7 +4260,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0353",
+              "id": "353",
               "question": "geri zekalısın",
               "answers": [
                 {
@@ -4271,7 +4271,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0354",
+              "id": "354",
               "question": "gerizekalisin",
               "answers": [
                 {
@@ -4282,7 +4282,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0355",
+              "id": "355",
               "question": "geri zekalisin",
               "answers": [
                 {
@@ -4293,7 +4293,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0356",
+              "id": "356",
               "question": "çok gerizekalısın",
               "answers": [
                 {
@@ -4304,7 +4304,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0357",
+              "id": "357",
               "question": "cok gerizekalisin",
               "answers": [
                 {
@@ -4315,7 +4315,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0358",
+              "id": "358",
               "question": "angutsun",
               "answers": [
                 {
@@ -4326,7 +4326,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0359",
+              "id": "359",
               "question": "çok angutsun",
               "answers": [
                 {
@@ -4337,7 +4337,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0360",
+              "id": "360",
               "question": "cok angutsun",
               "answers": [
                 {
@@ -4348,7 +4348,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0361",
+              "id": "361",
               "question": "aptal mısın",
               "answers": [
                 {
@@ -4359,7 +4359,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0362",
+              "id": "362",
               "question": "salak mısın",
               "answers": [
                 {
@@ -4370,7 +4370,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0363",
+              "id": "363",
               "question": "gerzek misin",
               "answers": [
                 {
@@ -4381,7 +4381,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0364",
+              "id": "364",
               "question": "gerizekalı mısın",
               "answers": [
                 {
@@ -4392,7 +4392,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0365",
+              "id": "365",
               "question": "geri zekali misin",
               "answers": [
                 {
@@ -4403,7 +4403,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0366",
+              "id": "366",
               "question": "malsın",
               "answers": [
                 {
@@ -4414,7 +4414,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0367",
+              "id": "367",
               "question": "malsin",
               "answers": [
                 {
@@ -4425,7 +4425,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0368",
+              "id": "368",
               "question": "mal mısın",
               "answers": [
                 {
@@ -4436,7 +4436,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0369",
+              "id": "369",
               "question": "mal misin",
               "answers": [
                 {
@@ -4447,7 +4447,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0370",
+              "id": "370",
               "question": "angut",
               "answers": [
                 {
@@ -4458,7 +4458,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0371",
+              "id": "371",
               "question": "angut musun",
               "answers": [
                 {
@@ -4469,7 +4469,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0372",
+              "id": "372",
               "question": "beceriksizsin",
               "answers": [
                 {
@@ -4480,7 +4480,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0373",
+              "id": "373",
               "question": "hiç akıllı değilsin",
               "answers": [
                 {
@@ -4491,7 +4491,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0374",
+              "id": "374",
               "question": "hiç de zeki değilsin",
               "answers": [
                 {
@@ -4502,7 +4502,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0375",
+              "id": "375",
               "question": "hic akilli diilsin",
               "answers": [
                 {
@@ -4513,7 +4513,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0376",
+              "id": "376",
               "question": "hic de zeki diilsin",
               "answers": [
                 {
@@ -4524,7 +4524,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0377",
+              "id": "377",
               "question": "hiçbir dediğimi anlamıyorsun",
               "answers": [
                 {
@@ -4535,7 +4535,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0378",
+              "id": "378",
               "question": "hicbir dedigimi anlamiyosun",
               "answers": [
                 {
@@ -4546,7 +4546,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0379",
+              "id": "379",
               "question": "yazdıklarımı anlamıyosun ki",
               "answers": [
                 {
@@ -4557,7 +4557,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0380",
+              "id": "380",
               "question": "dediklerimi anlamiyosun",
               "answers": [
                 {
@@ -4568,7 +4568,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0381",
+              "id": "381",
               "question": "dediklerimi anlamıyorsun",
               "answers": [
                 {
@@ -4579,7 +4579,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0382",
+              "id": "382",
               "question": "aptal bot",
               "answers": [
                 {
@@ -4590,7 +4590,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0383",
+              "id": "383",
               "question": "aptal bir botsun",
               "answers": [
                 {
@@ -4601,7 +4601,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0384",
+              "id": "384",
               "question": "aptal bi robotsun",
               "answers": [
                 {
@@ -4612,7 +4612,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0385",
+              "id": "385",
               "question": "salak bot",
               "answers": [
                 {
@@ -4623,7 +4623,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0386",
+              "id": "386",
               "question": "salak bir robotsun",
               "answers": [
                 {
@@ -4634,7 +4634,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0387",
+              "id": "387",
               "question": "salak bi botsun",
               "answers": [
                 {
@@ -4645,7 +4645,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0388",
+              "id": "388",
               "question": "gerizekalı bir botsun",
               "answers": [
                 {
@@ -4656,7 +4656,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0389",
+              "id": "389",
               "question": "geri zekalı bir botsun",
               "answers": [
                 {
@@ -4667,7 +4667,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0390",
+              "id": "390",
               "question": "gerizekali bir robotsun",
               "answers": [
                 {
@@ -4678,7 +4678,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0391",
+              "id": "391",
               "question": "geri zekali bir robotsun",
               "answers": [
                 {
@@ -4689,7 +4689,7 @@
               ]
             },
             {
-              "id": "56bf6b0f3aeaaa14008c0392",
+              "id": "392",
               "question": "beni anlamadın",
               "answers": [
                 {
@@ -4710,7 +4710,7 @@
           "context": "Buyurun, size nasıl yardımcı olabilirim? Mağazalarımız, yetkili servislerimiz, siparişleriniz, garanti ve kampanyalarımız hakkındaki sorularınıza cevap verebilir, ürün arızalarıyla ilgili destek olabilirim.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0393",
+              "id": "393",
               "question": "Bir sorum daha olacak",
               "answers": [
                 {
@@ -4721,7 +4721,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0394",
+              "id": "394",
               "question": "başka sorum daha olacak",
               "answers": [
                 {
@@ -4732,7 +4732,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0395",
+              "id": "395",
               "question": "bir sorum daha var",
               "answers": [
                 {
@@ -4743,7 +4743,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0396",
+              "id": "396",
               "question": "baska sorum daha olacak",
               "answers": [
                 {
@@ -4754,7 +4754,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0397",
+              "id": "397",
               "question": "Bi sorum olacaktı",
               "answers": [
                 {
@@ -4765,7 +4765,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0398",
+              "id": "398",
               "question": "Bişey sormak istiyorum",
               "answers": [
                 {
@@ -4776,7 +4776,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0399",
+              "id": "399",
               "question": "bir şey soracağım",
               "answers": [
                 {
@@ -4787,7 +4787,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0400",
+              "id": "400",
               "question": "Bir sorum var",
               "answers": [
                 {
@@ -4798,7 +4798,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0401",
+              "id": "401",
               "question": "Bir sorum olacak",
               "answers": [
                 {
@@ -4809,7 +4809,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0402",
+              "id": "402",
               "question": "benimle ilgilenebilir misin",
               "answers": [
                 {
@@ -4820,7 +4820,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0403",
+              "id": "403",
               "question": "yardımcı olabilir misiniz acaba",
               "answers": [
                 {
@@ -4831,7 +4831,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0404",
+              "id": "404",
               "question": "iyi günler bir bakar mısınız",
               "answers": [
                 {
@@ -4842,7 +4842,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0405",
+              "id": "405",
               "question": "Bir konuda destek almak istiyorum",
               "answers": [
                 {
@@ -4853,7 +4853,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0406",
+              "id": "406",
               "question": "size sorum olacak",
               "answers": [
                 {
@@ -4864,7 +4864,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0407",
+              "id": "407",
               "question": "bir sorum olacakti",
               "answers": [
                 {
@@ -4875,7 +4875,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0408",
+              "id": "408",
               "question": "bir bakar misiniz",
               "answers": [
                 {
@@ -4886,7 +4886,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0409",
+              "id": "409",
               "question": "bi bakar mısın",
               "answers": [
                 {
@@ -4897,7 +4897,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0410",
+              "id": "410",
               "question": "bir sey soracagim",
               "answers": [
                 {
@@ -4908,7 +4908,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0411",
+              "id": "411",
               "question": "sana bir sorum var",
               "answers": [
                 {
@@ -4919,7 +4919,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0412",
+              "id": "412",
               "question": "yardımınıza ihtiyacım var",
               "answers": [
                 {
@@ -4930,7 +4930,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0413",
+              "id": "413",
               "question": "Hoşbulurum inşallah",
               "answers": [
                 {
@@ -4941,7 +4941,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0414",
+              "id": "414",
               "question": "Hoşbuluruz umarım",
               "answers": [
                 {
@@ -4952,7 +4952,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0415",
+              "id": "415",
               "question": "hoşgeliriz umarım",
               "answers": [
                 {
@@ -4973,7 +4973,7 @@
           "context": "Çağrı Destek Merkezimize 0850 210 0 888 numarasından ulaşabilirsiniz.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0416",
+              "id": "416",
               "question": "Çağrı merkezinizin telefonu ne",
               "answers": [
                 {
@@ -4984,7 +4984,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0417",
+              "id": "417",
               "question": "çağrı merkezi nosu kaç",
               "answers": [
                 {
@@ -4995,7 +4995,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0418",
+              "id": "418",
               "question": "çağrı merkezi telefonu kaç",
               "answers": [
                 {
@@ -5006,7 +5006,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0419",
+              "id": "419",
               "question": "çağrı merkezini aramak istiyorum",
               "answers": [
                 {
@@ -5017,7 +5017,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0420",
+              "id": "420",
               "question": "çağrı merkezinizin numarası ne",
               "answers": [
                 {
@@ -5028,7 +5028,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0421",
+              "id": "421",
               "question": "çağrı merkezinize nasıl ulaşırım",
               "answers": [
                 {
@@ -5039,7 +5039,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0422",
+              "id": "422",
               "question": "çağrı merkezinize nereden ulaşırım",
               "answers": [
                 {
@@ -5050,7 +5050,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0423",
+              "id": "423",
               "question": "Çağrı merkezine en kısa nasıl ulaşırım",
               "answers": [
                 {
@@ -5061,7 +5061,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0424",
+              "id": "424",
               "question": "Çağrı merkezine en kolay nasıl ulaşırım",
               "answers": [
                 {
@@ -5072,7 +5072,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0425",
+              "id": "425",
               "question": "çağrı merkezine ulaşmak istiyorum",
               "answers": [
                 {
@@ -5083,7 +5083,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0426",
+              "id": "426",
               "question": "cagri merkezine nasil ulasabilirim",
               "answers": [
                 {
@@ -5094,7 +5094,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0427",
+              "id": "427",
               "question": "cagri merkezi numarasi nedir",
               "answers": [
                 {
@@ -5115,7 +5115,7 @@
           "context": "Çok iyiyim, teşekkür ederim. Size nasıl yardımcı olabilirim?",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0428",
+              "id": "428",
               "question": "Pampa naber",
               "answers": [
                 {
@@ -5126,7 +5126,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0429",
+              "id": "429",
               "question": "Kral naber",
               "answers": [
                 {
@@ -5137,7 +5137,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0430",
+              "id": "430",
               "question": "Kanka naber",
               "answers": [
                 {
@@ -5148,7 +5148,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0431",
+              "id": "431",
               "question": "Hocam naber",
               "answers": [
                 {
@@ -5159,7 +5159,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0432",
+              "id": "432",
               "question": "Naber",
               "answers": [
                 {
@@ -5170,7 +5170,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0433",
+              "id": "433",
               "question": "Nasılsın",
               "answers": [
                 {
@@ -5181,7 +5181,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0434",
+              "id": "434",
               "question": "Nassınız efendim",
               "answers": [
                 {
@@ -5192,7 +5192,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0435",
+              "id": "435",
               "question": "Nasılsınız efendim",
               "answers": [
                 {
@@ -5203,7 +5203,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0436",
+              "id": "436",
               "question": "Ne hissediyorsun",
               "answers": [
                 {
@@ -5214,7 +5214,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0437",
+              "id": "437",
               "question": "Ne haber",
               "answers": [
                 {
@@ -5225,7 +5225,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0438",
+              "id": "438",
               "question": "Naptın",
               "answers": [
                 {
@@ -5236,7 +5236,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0439",
+              "id": "439",
               "question": "Napıyon",
               "answers": [
                 {
@@ -5247,7 +5247,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0440",
+              "id": "440",
               "question": "Nabır",
               "answers": [
                 {
@@ -5258,7 +5258,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0441",
+              "id": "441",
               "question": "Nbr",
               "answers": [
                 {
@@ -5269,7 +5269,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0442",
+              "id": "442",
               "question": "Nassın",
               "answers": [
                 {
@@ -5280,7 +5280,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0443",
+              "id": "443",
               "question": "Nettin",
               "answers": [
                 {
@@ -5291,7 +5291,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0444",
+              "id": "444",
               "question": "Neettin",
               "answers": [
                 {
@@ -5302,7 +5302,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0445",
+              "id": "445",
               "question": "Nörüyon",
               "answers": [
                 {
@@ -5313,7 +5313,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0446",
+              "id": "446",
               "question": "Nabersin",
               "answers": [
                 {
@@ -5324,7 +5324,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0447",
+              "id": "447",
               "question": "Bugün nasılsın",
               "answers": [
                 {
@@ -5335,7 +5335,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0448",
+              "id": "448",
               "question": "Keyifler nasıl",
               "answers": [
                 {
@@ -5346,7 +5346,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0449",
+              "id": "449",
               "question": "ne yapıyorsun",
               "answers": [
                 {
@@ -5357,7 +5357,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0450",
+              "id": "450",
               "question": "napıyorsun",
               "answers": [
                 {
@@ -5368,7 +5368,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0451",
+              "id": "451",
               "question": "iyi misin",
               "answers": [
                 {
@@ -5379,7 +5379,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0452",
+              "id": "452",
               "question": "nasilsin",
               "answers": [
                 {
@@ -5390,7 +5390,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0453",
+              "id": "453",
               "question": "naptin",
               "answers": [
                 {
@@ -5401,7 +5401,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0454",
+              "id": "454",
               "question": "ne yapiyorsun",
               "answers": [
                 {
@@ -5412,7 +5412,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0455",
+              "id": "455",
               "question": "bugun nasilsin",
               "answers": [
                 {
@@ -5423,7 +5423,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0456",
+              "id": "456",
               "question": "iyi msiin",
               "answers": [
                 {
@@ -5434,7 +5434,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0457",
+              "id": "457",
               "question": "noruyon",
               "answers": [
                 {
@@ -5445,7 +5445,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0458",
+              "id": "458",
               "question": "keyifler nasil",
               "answers": [
                 {
@@ -5456,7 +5456,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0459",
+              "id": "459",
               "question": "nasilsiniz efendim",
               "answers": [
                 {
@@ -5467,7 +5467,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0460",
+              "id": "460",
               "question": "nettin",
               "answers": [
                 {
@@ -5478,7 +5478,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0461",
+              "id": "461",
               "question": "ne ettin",
               "answers": [
                 {
@@ -5489,7 +5489,7 @@
               ]
             },			
             {
-              "id": "56be85543aeaaa14008c0462",
+              "id": "462",
               "question": "nörün",
               "answers": [
                 {
@@ -5500,7 +5500,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0463",
+              "id": "463",
               "question": "Merhaba nasılsın",
               "answers": [
                 {
@@ -5521,7 +5521,7 @@
           "context": "Çoklu kredi kartı, kartınızın limitinin yeterli olmadığı ya da alışveriş tutarını iki farklı karta bölerek ödemek istediğiniz durumlarda kullabileceğiniz alternatif bir ödeme yöntemidir.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0464",
+              "id": "464",
               "question": "Çoklu kredi kartının kullanım amacı nedir",
               "answers": [
                 {
@@ -5532,7 +5532,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0465",
+              "id": "465",
               "question": "Çoklu kredi kartı ile ödeme yöntemi nedir?",
               "answers": [
                 {
@@ -5543,7 +5543,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0466",
+              "id": "466",
               "question": "Çoklu kartla ödeme nedir?",
               "answers": [
                 {
@@ -5554,7 +5554,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0467",
+              "id": "467",
               "question": "çoklu kredi kartıyla ödeme nedir?",
               "answers": [
                 {
@@ -5575,7 +5575,7 @@
           "context": "Dijital bir asistan olduğum için izne ihtiyaç duymuyorum. Ürün ve hizmetlerimizle ilgili sorularınıza cevap verebilmek için 7/24 buradayım.",
           "qas": [
             {
-              "id": "56be85543aeaaa14008c0468",
+              "id": "468",
               "question": "Bayramda izin kullanacak mısın?",
               "answers": [
                 {
@@ -5586,7 +5586,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0469",
+              "id": "469",
               "question": "Bayramda izin kullanıyor musun?",
               "answers": [
                 {
@@ -5597,7 +5597,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0470",
+              "id": "470",
               "question": "Bayramda izinli misin",
               "answers": [
                 {
@@ -5608,7 +5608,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0471",
+              "id": "471",
               "question": "Bayramda izinli olacak mısın",
               "answers": [
                 {
@@ -5619,7 +5619,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0472",
+              "id": "472",
               "question": "Bayramda kaç gün izinli olacaksın?",
               "answers": [
                 {
@@ -5630,7 +5630,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0473",
+              "id": "473",
               "question": "Bayramda kaç gün izinlisin?",
               "answers": [
                 {
@@ -5641,7 +5641,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0474",
+              "id": "474",
               "question": "Bayramda kaç gün iznin var?",
               "answers": [
                 {
@@ -5652,7 +5652,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0475",
+              "id": "475",
               "question": "Bayramda ne kadar izinlisin?",
               "answers": [
                 {
@@ -5663,7 +5663,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0476",
+              "id": "476",
               "question": "Bayramda ne kadar iznin var?",
               "answers": [
                 {
@@ -5674,7 +5674,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0477",
+              "id": "477",
               "question": "Bayramda izin yapıyor musun?",
               "answers": [
                 {
@@ -5685,7 +5685,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0478",
+              "id": "478",
               "question": "Bayramda izne çıkıyor musun?",
               "answers": [
                 {
@@ -5696,7 +5696,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c04679",
+              "id": "4679",
               "question": "Bayramda izin yapacak mısın?",
               "answers": [
                 {
@@ -5707,7 +5707,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0480",
+              "id": "480",
               "question": "Bayramda izne çıkacak mısın?",
               "answers": [
                 {
@@ -5718,7 +5718,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c04681",
+              "id": "4681",
               "question": "Bayramda ne kadar izin yapıyorsun?",
               "answers": [
                 {
@@ -5729,7 +5729,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0482",
+              "id": "482",
               "question": "Bayramda ne kadar izne çıkıyorsun",
               "answers": [
                 {
@@ -5740,7 +5740,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c04683",
+              "id": "4683",
               "question": "Bayramda ne kadar izin yapacaksın",
               "answers": [
                 {
@@ -5751,7 +5751,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0484",
+              "id": "484",
               "question": "Bayramda ne kadar izne çıkacaksın",
               "answers": [
                 {
@@ -5762,7 +5762,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0485",
+              "id": "485",
               "question": "Bayramda kaç gün izin yapıyorsun",
               "answers": [
                 {
@@ -5773,7 +5773,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0486",
+              "id": "486",
               "question": "Bayramda kaç gün izne çıkıyorsun?",
               "answers": [
                 {
@@ -5784,7 +5784,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0487",
+              "id": "487",
               "question": "Bayramda kaç gün izin yapacaksın?",
               "answers": [
                 {
@@ -5795,7 +5795,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0488",
+              "id": "488",
               "question": "Bayramda kaç gün izne çıkacaksın?",
               "answers": [
                 {
@@ -5806,7 +5806,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0489",
+              "id": "489",
               "question": "Cumartesi günü izinli misin?",
               "answers": [
                 {
@@ -5817,7 +5817,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0490",
+              "id": "490",
               "question": "Hafta sonu izinli misin?",
               "answers": [
                 {
@@ -5828,7 +5828,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0491",
+              "id": "491",
               "question": "Hafta sonu izin yapıyor musun?",
               "answers": [
                 {
@@ -5839,7 +5839,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0492",
+              "id": "492",
               "question": "Hafta sonu izne çıkıyor musun?",
               "answers": [
                 {
@@ -5850,7 +5850,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0493",
+              "id": "493",
               "question": "Hafta sonu izin yapacak mısın?",
               "answers": [
                 {
@@ -5861,7 +5861,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0494",
+              "id": "494",
               "question": "Hafta sonu izne çıkacak mısın?",
               "answers": [
                 {
@@ -5872,7 +5872,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0495",
+              "id": "495",
               "question": "Hafta sonu ne kadar izin yapıyorsun?",
               "answers": [
                 {
@@ -5883,7 +5883,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0496",
+              "id": "496",
               "question": "Hafta sonu ne kadar izne çıkıyorsun?",
               "answers": [
                 {
@@ -5894,7 +5894,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0497",
+              "id": "497",
               "question": "Hafta sonu ne kadar izin yapacaksın?",
               "answers": [
                 {
@@ -5905,7 +5905,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0498",
+              "id": "498",
               "question": "Hafta sonu ne kadar izne çıkacaksın?",
               "answers": [
                 {
@@ -5916,7 +5916,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0499",
+              "id": "499",
               "question": "Hafta sonu kaç gün izin yapıyorsun?",
               "answers": [
                 {
@@ -5927,7 +5927,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0500",
+              "id": "500",
               "question": "Hafta sonu kaç gün izne çıkıyorsun?",
               "answers": [
                 {
@@ -5938,7 +5938,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0501",
+              "id": "501",
               "question": "Hafta sonu kaç gün izin yapacaksın?",
               "answers": [
                 {
@@ -5949,7 +5949,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0502",
+              "id": "502",
               "question": "Hafta sonu kaç gün izne çıkacaksın?",
               "answers": [
                 {
@@ -5960,7 +5960,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0503",
+              "id": "503",
               "question": "Pazar günü izinli misin?",
               "answers": [
                 {
@@ -5971,7 +5971,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0504",
+              "id": "504",
               "question": "Pazar günü izinli olacak mısın",
               "answers": [
                 {
@@ -5982,7 +5982,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0505",
+              "id": "505",
               "question": "senede kaç gün iznin var",
               "answers": [
                 {
@@ -5993,7 +5993,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0506",
+              "id": "506",
               "question": "senede ne kadar iznin var",
               "answers": [
                 {
@@ -6004,7 +6004,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0507",
+              "id": "507",
               "question": "hiç tatil yaptın mı",
               "answers": [
                 {
@@ -6015,7 +6015,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0508",
+              "id": "508",
               "question": "hiç tatil yapar mısın",
               "answers": [
                 {
@@ -6026,7 +6026,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0509",
+              "id": "509",
               "question": "Yılbaşında izinli misin",
               "answers": [
                 {
@@ -6037,7 +6037,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0510",
+              "id": "510",
               "question": "hiç izin yaptın mı",
               "answers": [
                 {
@@ -6048,7 +6048,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0511",
+              "id": "511",
               "question": "Yılbaşında kaç gün izinli olacaksın",
               "answers": [
                 {
@@ -6059,7 +6059,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0512",
+              "id": "512",
               "question": "Yılbaşında kaç gün izinlisin",
               "answers": [
                 {
@@ -6070,7 +6070,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0513",
+              "id": "513",
               "question": "Yılbaşında kaç gün iznin var",
               "answers": [
                 {
@@ -6081,7 +6081,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0514",
+              "id": "514",
               "question": "Yılbaşında ne kadar izinli olacaksın",
               "answers": [
                 {
@@ -6092,7 +6092,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0515",
+              "id": "515",
               "question": "Yılbaşında ne kadar izinlisin",
               "answers": [
                 {
@@ -6103,7 +6103,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0516",
+              "id": "516",
               "question": "hiç izin yapar mısın",
               "answers": [
                 {
@@ -6114,7 +6114,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0517",
+              "id": "517",
               "question": "tatil planın var mı",
               "answers": [
                 {
@@ -6125,7 +6125,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0518",
+              "id": "518",
               "question": "tatilde ne yapacaksın",
               "answers": [
                 {
@@ -6136,7 +6136,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0519",
+              "id": "519",
               "question": "tatile nereye gideceksin",
               "answers": [
                 {
@@ -6147,7 +6147,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0520",
+              "id": "520",
               "question": "yazın tatil yapacak mısın",
               "answers": [
                 {
@@ -6158,7 +6158,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0521",
+              "id": "521",
               "question": "yaz tatiline çıkıyor musun",
               "answers": [
                 {
@@ -6169,7 +6169,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0522",
+              "id": "522",
               "question": "bayram tatiline gidiyor musun",
               "answers": [
                 {
@@ -6180,7 +6180,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0523",
+              "id": "523",
               "question": "tatile gidiyor musun",
               "answers": [
                 {
@@ -6191,7 +6191,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0524",
+              "id": "524",
               "question": "tatile gidecek misin",
               "answers": [
                 {
@@ -6202,7 +6202,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0525",
+              "id": "525",
               "question": "Yıllık iznin var mı",
               "answers": [
                 {
@@ -6213,7 +6213,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0526",
+              "id": "526",
               "question": "yıllık izin yapıyor musun",
               "answers": [
                 {
@@ -6224,7 +6224,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0527",
+              "id": "527",
               "question": "yılda ne kadar iznin var",
               "answers": [
                 {
@@ -6235,7 +6235,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0528",
+              "id": "528",
               "question": "yılda ne kadar izin yapıyorsun",
               "answers": [
                 {
@@ -6246,7 +6246,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0529",
+              "id": "529",
               "question": "yılda kaç gün iznin var",
               "answers": [
                 {
@@ -6257,7 +6257,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0530",
+              "id": "530",
               "question": "Bayramda tatile gidiyor musun",
               "answers": [
                 {
@@ -6268,7 +6268,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0531",
+              "id": "531",
               "question": "yılda kaç gün izin hakkın var",
               "answers": [
                 {
@@ -6279,7 +6279,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0532",
+              "id": "532",
               "question": "Yılbaşında izinli olacak mısın",
               "answers": [
                 {
@@ -6290,7 +6290,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0533",
+              "id": "533",
               "question": "senede ne kadar izin hakkın var",
               "answers": [
                 {
@@ -6301,7 +6301,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0534",
+              "id": "534",
               "question": "senede kaç gün izin yapabilirsin",
               "answers": [
                 {
@@ -6312,7 +6312,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0535",
+              "id": "535",
               "question": "Pazar günü izin yapıyor musun",
               "answers": [
                 {
@@ -6323,7 +6323,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0536",
+              "id": "536",
               "question": "Hafta sonu ne kadar iznin var",
               "answers": [
                 {
@@ -6334,7 +6334,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0537",
+              "id": "537",
               "question": "Hafta sonu ne kadar izinlisin",
               "answers": [
                 {
@@ -6345,7 +6345,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0538",
+              "id": "538",
               "question": "Hafta sonu kaç gün iznin var",
               "answers": [
                 {
@@ -6356,7 +6356,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0539",
+              "id": "539",
               "question": "Hafta sonu kaç gün izinlisin",
               "answers": [
                 {
@@ -6367,7 +6367,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0540",
+              "id": "540",
               "question": "Hafta sonu iznin var mı",
               "answers": [
                 {
@@ -6378,7 +6378,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0541",
+              "id": "541",
               "question": "bir yıl içinde ne kadar iznin var",
               "answers": [
                 {
@@ -6389,7 +6389,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0542",
+              "id": "542",
               "question": "bir yıl içinde kaç gün iznin var",
               "answers": [
                 {
@@ -6400,7 +6400,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0543",
+              "id": "543",
               "question": "bir yıl içinde kaç gün izinlisin",
               "answers": [
                 {
@@ -6411,7 +6411,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0544",
+              "id": "544",
               "question": "bir yıl içinde kaç gün izin yapıyorsun",
               "answers": [
                 {
@@ -6422,7 +6422,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0545",
+              "id": "545",
               "question": "bir sene içinde ne kadar iznin var",
               "answers": [
                 {
@@ -6433,7 +6433,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0546",
+              "id": "546",
               "question": "bir sene içinde kaç gün iznin var",
               "answers": [
                 {
@@ -6444,7 +6444,7 @@
               ]
             },
             {
-              "id": "56be85543aeaaa14008c0547",
+              "id": "547",
               "question": "bir sene içinde kaç gün izin yaparsın",
               "answers": [
                 {
